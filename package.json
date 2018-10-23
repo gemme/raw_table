@@ -1,0 +1,30 @@
+{
+  "name": "react-testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "main.js",
+  "author": "GEMME",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-es2016": "^7.0.0-beta.53",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.4",
+    "styled-components": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
